@@ -259,6 +259,7 @@
 
 ## ▷ Reading 
 
+* [Weread/ 微信读书 / Wēixìn dúshū ](https://weread.qq.com/) - Books Fiction / Nonfiction 
 * [Jiumo](https://www.jiumodiary.com/) - Book Search Engine  
 * [BooksThatMakeYouThink](https://t.me/BooksThatMakeYouThink) - Nonfiction 
 * [shuge](https://new.shuge.org/) - Books / Audiobooks / Legal
